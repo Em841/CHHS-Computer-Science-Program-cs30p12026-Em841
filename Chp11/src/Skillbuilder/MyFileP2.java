@@ -9,7 +9,7 @@ public class MyFileP2 {
 		Scanner input = new Scanner(System.in);
 		String response;
 		
-		textFile = new File("..\\Users\\1100080482\\git\\CHHS-Computer-Science-Program-cs30p12026-Em841\\Chp11\\src\\Skillbuilder\\zzz.txt");
+		textFile = new File("../Chp11/src/Skillbuilder/zzz.txt");
 		
 		if(textFile.exists())
 		{
