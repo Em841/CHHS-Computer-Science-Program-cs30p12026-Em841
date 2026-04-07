@@ -183,73 +183,32 @@ public class WordGuess {
 	}
 }
 
-/*scrren dump 
- * 
- WordGuess game.
-
------------
+/*Screen dump
+ * ----
 15 Guesses Remaining.
-Guess A Letter (! To Guess The Entire Word): t
----------T-
+Guess A Letter (! To Guess The Entire Word): h
+----
 
 14 Guesses Remaining.
-Guess A Letter (! To Guess The Entire Word): d
----------T-
+Guess A Letter (! To Guess The Entire Word): e
+----
 
 13 Guesses Remaining.
-Guess A Letter (! To Guess The Entire Word): t
----------T-
+Guess A Letter (! To Guess The Entire Word): a
+----
 
 12 Guesses Remaining.
-Guess A Letter (! To Guess The Entire Word): r
--R-------T-
+Guess A Letter (! To Guess The Entire Word): f
+F---
 
 11 Guesses Remaining.
-Guess A Letter (! To Guess The Entire Word): e
--RE------TE
+Guess A Letter (! To Guess The Entire Word): !
+F---
 
-10 Guesses Remaining.
-Guess A Letter (! To Guess The Entire Word): w
--RE------TE
-
-9 Guesses Remaining.
-Guess A Letter (! To Guess The Entire Word): t
--RE------TE
-
-8 Guesses Remaining.
-Guess A Letter (! To Guess The Entire Word): y
--RE------TE
-
-7 Guesses Remaining.
-Guess A Letter (! To Guess The Entire Word): f
--RE------TE
-
-6 Guesses Remaining.
-Guess A Letter (! To Guess The Entire Word): s
--RE------TE
-
-5 Guesses Remaining.
-Guess A Letter (! To Guess The Entire Word): g
--RE------TE
-
-4 Guesses Remaining.
-Guess A Letter (! To Guess The Entire Word): c
--RE------TE
-
-3 Guesses Remaining.
-Guess A Letter (! To Guess The Entire Word): x
--RE------TE
-
-2 Guesses Remaining.
-Guess A Letter (! To Guess The Entire Word): a
--REA-A--ATE
-
-1 Guesses Remaining.
-Guess A Letter (! To Guess The Entire Word): s
--REA-A--ATE
-
-Sorry, No More Guesses. You Lose.
-Sorry. You Lose.
-The Secret Word Is: BREAKAPLATE
-You Made 15 guesses.
+What Is Your Guess: food
+You Won!
+The Secret Word Is: FOOD
+You Made 5 guesses.
 */
+ 
+
