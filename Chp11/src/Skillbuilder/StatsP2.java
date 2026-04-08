@@ -70,7 +70,7 @@ public class StatsP2
 		}
 		
 		
-		//Read data from the file
+		//Read data from the fileName
 		try
 		{
 			dataFile = new File(fileName);
