@@ -1,6 +1,6 @@
 tictactoe
-breakaplate
+b
 localbank
 wordguess
-semesteravg
+se
 countvowels
